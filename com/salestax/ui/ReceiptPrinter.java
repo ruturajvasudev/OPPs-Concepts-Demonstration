@@ -1,3 +1,8 @@
+
+/*
+this method will provide the reciptof items
+*/
+
 package com.salestax.ui;
 
 import com.salestax.service.ShoppingCart;
