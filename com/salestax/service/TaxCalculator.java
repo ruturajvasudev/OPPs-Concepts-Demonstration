@@ -1,3 +1,7 @@
+/*
+in this file we calculate the tax as per its import status , exemption status
+*/
+
 package com.salestax.service;
 
 import com.salestax.model.Item;
