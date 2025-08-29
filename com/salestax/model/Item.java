@@ -37,7 +37,7 @@ public class Item {
         return isExempt;
     }
 
-    // method to calculate price with tax
+    // method to calculate price with tax and quantities
     public double getPriceWithTax(TaxCalculator calculator) {
         double tax = calculator.calculateTax(this);
         return (price + tax) * quantity;
